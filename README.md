@@ -1,8 +1,7 @@
 # MyFully-Server-Side-App
 A fully functionality standalone server-side app using Node, Express, MongoDB. 
 This stores user data implemented with Mongoose.
-I built the user API endpoints for CRUD operation, implemented with Express.
-The secured app was implemented with JWT and express-jwt using auth for protected routes.
+I've built the Backend API endpoints for CRUD operation, implemented with Express and secured the app with JWT and express-jwt using auth for protected routes.
 I used Advanced REST Client(ARC), a chrome extension app to test my API.
 Advanced REST Client is an Opensource API Testing tool.
 ![Fetching_testing_Protected_API_in_Advanced_REST_Client_ARC_GET_1](https://user-images.githubusercontent.com/43505777/109548801-bc6ce880-7a92-11eb-9d6b-8cf0c80db49f.JPG)
